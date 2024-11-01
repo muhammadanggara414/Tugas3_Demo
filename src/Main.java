@@ -100,5 +100,6 @@ class Student {
     public static void main(String[] args) {
         Student student = new Student("Alice", 21, "S12345");
         student.displayStudentInfo();
+        System.out.println("angga");
     }
 }
